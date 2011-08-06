@@ -1,0 +1,33 @@
+#holder { position: relative; width: 400px; height: 400px; float: left;  }
+        #selected-wrapper { position: absolute; left: 100px; top: 100px; border-radius: 200px; -moz-border-radius: 200px; -webkit-border-radius: 200px; display: block; height: 200px; width: 200px; background: #FFF; behavior: url(ie-css3.htc); z-index: 100; zoom: 1; }
+        
+        #selected-color { display: block; width: 195px; height: 200px; position: absolute; background: url(../images/selected-sprite.png) no-repeat 0 0; z-index: 110; }
+        
+        #selected-color.l-660000 { background-position: 0 0; }
+        #selected-color.l-990000 { background-position: -195px 0; }
+        #selected-color.l-CC0000 { background-position: -390px 0; }
+        #selected-color.l-CC3333 { background-position: -585px 0; }
+        #selected-color.l-EA4C88 { background-position: -780px 0; }
+        #selected-color.l-993399 { background-position: -975px 0; }
+        #selected-color.l-663399 { background-position: -1170px 0; }
+        #selected-color.l-333399 { background-position: -1365px 0; }
+        #selected-color.l-0066CC { background-position: -1560px 0; }
+        #selected-color.l-0099CC { background-position: -1755px 0; }
+        #selected-color.l-66CCCC { background-position: -1950px 0; }
+        #selected-color.l-77CC33 { background-position: -2145px 0; }
+        #selected-color.l-669900 { background-position: -2340px 0; }
+        #selected-color.l-336600 { background-position: -2535px 0; }
+        #selected-color.l-666600 { background-position: -2730px 0; }
+        #selected-color.l-999900 { background-position: -2925px 0; }
+        #selected-color.l-CCCC33 { background-position: -3120px 0; }
+        #selected-color.l-FFFF00 { background-position: -3315px 0; }
+        #selected-color.l-FFCC33 { background-position: -3510px 0; }
+        #selected-color.l-FF9900 { background-position: -3705px 0; }
+        #selected-color.l-FF6600 { background-position: -3900px 0; }
+        #selected-color.l-CC6633 { background-position: -4095px 0; }
+        #selected-color.l-996633 { background-position: -4290px 0; }
+        #selected-color.l-663300 { background-position: -4485px 0; }
+        #selected-color.l-000000 { background-position: -4680px 0; }
+        #selected-color.l-999999 { background-position: -4875px 0; }
+        #selected-color.l-CCCCCC { background-position: -5070px 0; }
+        #selected-color.l-FFFFFF { background-position: -5265px 0; }
